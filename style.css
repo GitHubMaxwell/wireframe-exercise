@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #444444;
+    overflow:auto;
+}
+.navContainer {
+    width:960px;
+    margin:0 auto;
+}
+nav img {
+    margin:10px 10px 10px 0;
+}
+.container {
+    width:960px;
+    margin:0 auto;
+}
+nav img{
+    float:left;
+}
+nav ul {
+    float:left;
+}
+nav ul li {
+    display:inline-block;
+    color:#828282;
+    padding:40px;
+}
+.heroImg {
+    margin-top:30px;
+    margin-bottom:15px;
+}
+.threeUpImg {
+    float:left;
+    margin:15px 30px 30px 0;
+}
+.threeUpImg:last-child {
+    margin-right:0px;
+}
+.threeUp {
+    overflow: auto;
+}
+footer {
+    background-color: #444444;
+    height:100px;
+    margin-top:30px;
+}
