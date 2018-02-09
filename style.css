@@ -78,6 +78,10 @@ nav ul li {
     text-align:center;
     padding-top:12px;
     font-style:normal;
+    transition: 350ms;
+}
+#button:hover {
+    background-color: green;
 }
 footer {
     background-color: #444444;
