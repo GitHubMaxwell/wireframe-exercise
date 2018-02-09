@@ -43,6 +43,42 @@ nav ul li {
 .threeUp {
     overflow: auto;
 }
+.featureContainer {
+    overflow: auto;
+}
+.featureContainer img {
+    float:left;
+    margin: 0 0 30px 0;
+}
+.featureContainer div {
+    float:left;
+    width:46%;
+    height:400px;
+    margin: 0 0 30px 30px;
+}
+.featureContainer h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom:20px;
+}
+.featureContainer a {
+    text-decoration:none;
+}
+.featureContainer p {
+    overflow:scroll;
+    height:298px;
+    font-style:italic;
+}
+#button {
+    margin-top:20px;
+    height:40px;
+    width:170px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding-top:12px;
+    font-style:normal;
+}
 footer {
     background-color: #444444;
     height:100px;
